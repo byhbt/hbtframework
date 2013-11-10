@@ -1,0 +1,88 @@
+body {
+  padding-top: 75px;
+  padding-bottom: 20px;
+}
+
+.birthday select{
+  display: inline-block;
+}
+
+.free-title{
+	border-bottom: solid 1px #CCCCCC;
+	padding-bottom: 5px;
+}
+
+#content-wrap{
+	position: relative;
+}
+
+#main-tab{
+	margin-bottom: 15px;
+}
+
+.inline-edit {
+	font-size: 9pt;
+	margin-top: 10px;
+}
+
+.control-wrap{
+	margin:5px 0;
+}
+
+.inline-edit .form {
+	display: none;
+}
+
+.inline-edit .hover {
+	background-color: #FFFFA5;
+	cursor: pointer;
+}
+
+#sidebar{
+	border-right: solid 1px #E3E3E3;
+}
+
+#sub-nav{
+	padding-bottom: 10px;
+}
+
+h4.full-name a{
+	text-decoration: none;
+	color: #5CB7D5;
+}
+
+h4.full-name a:hover{
+	text-decoration: none;
+}
+
+#main{
+	position: relative;
+}
+
+#loading-indicator {
+  position: absolute;
+  left: 45%;
+  top: -5%;
+  display: none;
+}
+
+.gallery-item{
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+a.like{
+	text-decoration: none;
+}
+
+a.thumbnail{
+	margin-bottom: 5px;
+}
+
+#update-avarta{
+	display: none;
+}
+
+#position-info{
+	display: none;
+}
