@@ -1,5 +1,5 @@
 <?php
-//Abstract model
+//For loading model
 class Model
 {
 	protected $_db;
